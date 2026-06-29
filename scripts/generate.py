@@ -165,8 +165,8 @@ def generate_windows_terminal(palette: dict[str, object]) -> str:
 def main() -> None:
     palette = load_palette()
     shared_yaml = generate_warp_or_orca(palette)
-    write(ROOT / "themes" / "warp" / "dark-pastel.yaml", shared_yaml)
-    write(ROOT / "themes" / "orca" / "dark-pastel.yaml", shared_yaml)
+    write(ROOT / "themes" / "warp" / "Dark Pastel.yaml", shared_yaml)
+    write(ROOT / "themes" / "orca" / "Dark Pastel.yaml", shared_yaml)
     write(ROOT / "themes" / "alacritty" / "Dark Pastel.toml", generate_alacritty(palette))
     write(
         ROOT / "themes" / "windowsterminal" / "Dark Pastel.json",

@@ -60,7 +60,7 @@ Theme files live under [`themes/`](themes/), grouped by target format.
 | Konsole | `themes/konsole/Dark Pastel.colorscheme` |
 | LXTerminal | `themes/lxterminal/Dark Pastel.conf` |
 | MobaXterm | `themes/mobaxterm/Dark Pastel.ini` |
-| Orca | `themes/orca/dark-pastel.yaml` |
+| Orca | `themes/orca/Dark Pastel.yaml` |
 | Pantheon Terminal | `themes/pantheonterminal/Dark Pastel.sh` |
 | Ptyxis | `themes/ptyxis/Dark Pastel.palette` |
 | PuTTY | `themes/putty/Dark Pastel.reg` |
@@ -74,16 +74,16 @@ Theme files live under [`themes/`](themes/), grouped by target format.
 | Termux | `themes/termux/Dark Pastel.properties` |
 | Tilda | `themes/tilda/Dark Pastel.itermcolors_config_0` |
 | VHS | `themes/vhs/Dark Pastel.json` |
-| Vim | `themes/vim/Dark-Pastel.vim` |
+| Vim | `themes/vim/Dark Pastel.vim` |
 | VS Code | `themes/vscode/Dark Pastel.json` |
-| Warp | `themes/warp/dark-pastel.yaml` |
+| Warp | `themes/warp/Dark Pastel.yaml` |
 | Wayst | `themes/wayst/Dark Pastel` |
 | WezTerm | `themes/wezterm/Dark Pastel.toml` |
 | Windows Terminal | `themes/windowsterminal/Dark Pastel.json` |
 | Xfce Terminal | `themes/xfce4terminal/Dark Pastel.theme` |
 | Xresources | `themes/Xresources/Dark Pastel` |
 | XRDB | `themes/xrdb/Dark Pastel.xrdb` |
-| Zed | `themes/zed/dark_pastel.json` |
+| Zed | `themes/zed/Dark Pastel.json` |
 
 ## Regenerate Maintained Files
 
