@@ -1,0 +1,28 @@
+name: Dark Pastel
+slug: dark-pastel
+accent: "#ff5e7d"
+background: "#000000"
+foreground: "#ffffff"
+cursor: "#bbbbbb"
+cursor_text: "#ffffff"
+selection: "#b5d5ff"
+selection_text: "#000000"
+ansi:
+  normal:
+    black: "#000000"
+    red: "#ff5555"
+    green: "#55ff55"
+    yellow: "#ffff55"
+    blue: "#5555ff"
+    magenta: "#ff55ff"
+    cyan: "#55ffff"
+    white: "#bbbbbb"
+  bright:
+    black: "#555555"
+    red: "#ff5555"
+    green: "#55ff55"
+    yellow: "#ffff55"
+    blue: "#5555ff"
+    magenta: "#ff55ff"
+    cyan: "#55ffff"
+    white: "#ffffff"
