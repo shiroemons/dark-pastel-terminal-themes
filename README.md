@@ -46,44 +46,44 @@ Theme files live under [`themes/`](themes/), grouped by target format.
 
 | Target | File |
 | --- | --- |
-| Alacritty | `themes/alacritty/Dark Pastel.toml` |
-| dynamic-colors | `themes/dynamic-colors/Dark Pastel.sh` |
-| Electerm | `themes/electerm/Dark Pastel.txt` |
-| Foot | `themes/foot/Dark Pastel.ini` |
-| FreeBSD VT | `themes/freebsd_vt/Dark Pastel.conf` |
-| Generic shell | `themes/generic/Dark Pastel.sh` |
-| Ghostty | `themes/ghostty/Dark Pastel` |
-| HexChat | `themes/hexchat/Dark Pastel.conf` |
-| iTerm2 dynamic colors | `themes/iterm-dynamic-colors/Dark Pastel.sh` |
-| iTerm2 | `themes/schemes/Dark Pastel.itermcolors` |
-| Kitty | `themes/kitty/Dark Pastel.conf` |
-| Konsole | `themes/konsole/Dark Pastel.colorscheme` |
-| LXTerminal | `themes/lxterminal/Dark Pastel.conf` |
-| MobaXterm | `themes/mobaxterm/Dark Pastel.ini` |
-| Orca | `themes/orca/Dark Pastel.yaml` |
-| Pantheon Terminal | `themes/pantheonterminal/Dark Pastel.sh` |
-| Ptyxis | `themes/ptyxis/Dark Pastel.palette` |
-| PuTTY | `themes/putty/Dark Pastel.reg` |
-| Remmina | `themes/remmina/Dark Pastel.colors` |
-| Rio | `themes/rio/Dark Pastel.toml` |
-| Royal TS | `themes/royalts/Dark Pastel.termcolors` |
-| TermFrame | `themes/termframe/Dark Pastel.toml` |
-| Terminal.app | `themes/terminal/Dark Pastel.terminal` |
-| Terminator | `themes/terminator/Dark Pastel.config` |
-| Termite | `themes/termite/Dark Pastel` |
-| Termux | `themes/termux/Dark Pastel.properties` |
-| Tilda | `themes/tilda/Dark Pastel.itermcolors_config_0` |
-| VHS | `themes/vhs/Dark Pastel.json` |
-| Vim | `themes/vim/Dark Pastel.vim` |
-| VS Code | `themes/vscode/Dark Pastel.json` |
-| Warp | `themes/warp/Dark Pastel.yaml` |
-| Wayst | `themes/wayst/Dark Pastel` |
-| WezTerm | `themes/wezterm/Dark Pastel.toml` |
-| Windows Terminal | `themes/windowsterminal/Dark Pastel.json` |
-| Xfce Terminal | `themes/xfce4terminal/Dark Pastel.theme` |
-| Xresources | `themes/Xresources/Dark Pastel` |
-| XRDB | `themes/xrdb/Dark Pastel.xrdb` |
-| Zed | `themes/zed/Dark Pastel.json` |
+| Alacritty | [`themes/alacritty/Dark Pastel.toml`](themes/alacritty/Dark%20Pastel.toml) |
+| dynamic-colors | [`themes/dynamic-colors/Dark Pastel.sh`](themes/dynamic-colors/Dark%20Pastel.sh) |
+| Electerm | [`themes/electerm/Dark Pastel.txt`](themes/electerm/Dark%20Pastel.txt) |
+| Foot | [`themes/foot/Dark Pastel.ini`](themes/foot/Dark%20Pastel.ini) |
+| FreeBSD VT | [`themes/freebsd_vt/Dark Pastel.conf`](themes/freebsd_vt/Dark%20Pastel.conf) |
+| Generic shell | [`themes/generic/Dark Pastel.sh`](themes/generic/Dark%20Pastel.sh) |
+| Ghostty | [`themes/ghostty/Dark Pastel`](themes/ghostty/Dark%20Pastel) |
+| HexChat | [`themes/hexchat/Dark Pastel.conf`](themes/hexchat/Dark%20Pastel.conf) |
+| iTerm2 dynamic colors | [`themes/iterm-dynamic-colors/Dark Pastel.sh`](themes/iterm-dynamic-colors/Dark%20Pastel.sh) |
+| iTerm2 | [`themes/schemes/Dark Pastel.itermcolors`](themes/schemes/Dark%20Pastel.itermcolors) |
+| Kitty | [`themes/kitty/Dark Pastel.conf`](themes/kitty/Dark%20Pastel.conf) |
+| Konsole | [`themes/konsole/Dark Pastel.colorscheme`](themes/konsole/Dark%20Pastel.colorscheme) |
+| LXTerminal | [`themes/lxterminal/Dark Pastel.conf`](themes/lxterminal/Dark%20Pastel.conf) |
+| MobaXterm | [`themes/mobaxterm/Dark Pastel.ini`](themes/mobaxterm/Dark%20Pastel.ini) |
+| Orca | [`themes/orca/Dark Pastel.yaml`](themes/orca/Dark%20Pastel.yaml) |
+| Pantheon Terminal | [`themes/pantheonterminal/Dark Pastel.sh`](themes/pantheonterminal/Dark%20Pastel.sh) |
+| Ptyxis | [`themes/ptyxis/Dark Pastel.palette`](themes/ptyxis/Dark%20Pastel.palette) |
+| PuTTY | [`themes/putty/Dark Pastel.reg`](themes/putty/Dark%20Pastel.reg) |
+| Remmina | [`themes/remmina/Dark Pastel.colors`](themes/remmina/Dark%20Pastel.colors) |
+| Rio | [`themes/rio/Dark Pastel.toml`](themes/rio/Dark%20Pastel.toml) |
+| Royal TS | [`themes/royalts/Dark Pastel.termcolors`](themes/royalts/Dark%20Pastel.termcolors) |
+| TermFrame | [`themes/termframe/Dark Pastel.toml`](themes/termframe/Dark%20Pastel.toml) |
+| Terminal.app | [`themes/terminal/Dark Pastel.terminal`](themes/terminal/Dark%20Pastel.terminal) |
+| Terminator | [`themes/terminator/Dark Pastel.config`](themes/terminator/Dark%20Pastel.config) |
+| Termite | [`themes/termite/Dark Pastel`](themes/termite/Dark%20Pastel) |
+| Termux | [`themes/termux/Dark Pastel.properties`](themes/termux/Dark%20Pastel.properties) |
+| Tilda | [`themes/tilda/Dark Pastel.itermcolors_config_0`](themes/tilda/Dark%20Pastel.itermcolors_config_0) |
+| VHS | [`themes/vhs/Dark Pastel.json`](themes/vhs/Dark%20Pastel.json) |
+| Vim | [`themes/vim/Dark Pastel.vim`](themes/vim/Dark%20Pastel.vim) |
+| VS Code | [`themes/vscode/Dark Pastel.json`](themes/vscode/Dark%20Pastel.json) |
+| Warp | [`themes/warp/Dark Pastel.yaml`](themes/warp/Dark%20Pastel.yaml) |
+| Wayst | [`themes/wayst/Dark Pastel`](themes/wayst/Dark%20Pastel) |
+| WezTerm | [`themes/wezterm/Dark Pastel.toml`](themes/wezterm/Dark%20Pastel.toml) |
+| Windows Terminal | [`themes/windowsterminal/Dark Pastel.json`](themes/windowsterminal/Dark%20Pastel.json) |
+| Xfce Terminal | [`themes/xfce4terminal/Dark Pastel.theme`](themes/xfce4terminal/Dark%20Pastel.theme) |
+| Xresources | [`themes/Xresources/Dark Pastel`](themes/Xresources/Dark%20Pastel) |
+| XRDB | [`themes/xrdb/Dark Pastel.xrdb`](themes/xrdb/Dark%20Pastel.xrdb) |
+| Zed | [`themes/zed/Dark Pastel.json`](themes/zed/Dark%20Pastel.json) |
 
 ## Regenerate Maintained Files
 
